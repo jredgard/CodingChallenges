@@ -1,0 +1,15 @@
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.csproj.AssemblyReference.cache
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.AssemblyInfoInputs.cache
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.AssemblyInfo.cs
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.csproj.CoreCompileInputs.cache
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\bin\Debug\net7.0\LargestRect.exe
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\bin\Debug\net7.0\LargestRect.deps.json
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\bin\Debug\net7.0\LargestRect.runtimeconfig.json
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\bin\Debug\net7.0\LargestRect.dll
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\bin\Debug\net7.0\LargestRect.pdb
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.dll
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\refint\LargestRect.dll
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.pdb
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\LargestRect.genruntimeconfig.cache
+D:\Study Docs\Coding Challenges\FindRechtangle\StackFindRectangle\LargestRect\obj\Debug\net7.0\ref\LargestRect.dll

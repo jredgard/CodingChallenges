@@ -1,0 +1,17 @@
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\JSONDeserialize.exe
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\JSONDeserialize.deps.json
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\JSONDeserialize.runtimeconfig.json
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\JSONDeserialize.dll
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\JSONDeserialize.pdb
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.csproj.AssemblyReference.cache
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.AssemblyInfoInputs.cache
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.AssemblyInfo.cs
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.csproj.CoreCompileInputs.cache
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.csproj.CopyComplete
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.dll
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\refint\JSONDeserialize.dll
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.pdb
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\JSONDeserialize.genruntimeconfig.cache
+D:\Study Docs\Coding Challenges\JSONdeparse\JSONDeserialize\JSONDeserialize\obj\Debug\net7.0\ref\JSONDeserialize.dll
